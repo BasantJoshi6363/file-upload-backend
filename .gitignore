@@ -40,6 +40,7 @@ build/Release
 
 # Dependency directories
 node_modules/
+public/temp/
 jspm_packages/
 
 # Snowpack dependency directory (https://snowpack.dev/)
@@ -118,6 +119,8 @@ dist
 
 # TernJS port file
 .tern-port
+#public temp folder
+public/temp/
 
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
